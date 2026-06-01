@@ -72,7 +72,7 @@ A 3D taco stand simulation game set in a stylized Monterrey-inspired environment
 
 A hybrid rhythm and driving game where you take on the role of a bus driver racing to reach each stop on time. Follow the rhythm of the music, dodge traffic, keep your passengers happy, and avoid causing accidents. Developed with Unity 6.1.
 
---
+---
 
 ## Projects
 
