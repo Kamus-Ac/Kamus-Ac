@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manuel Acosta 👋</h1>
+<h1 align="center"> <b>Hi, I'm Manuel Acosta</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p align="center">
   Software Developer | Game Developer | Multimedia & Digital Animation Student
@@ -7,46 +7,19 @@
 ---
 
 ## About Me
+I wanto to contribute to real-world projects, continue learning, and further strengthen my technical skills.
 
-I'm a Multimedia and Digital Animation student at the Faculty of Physical and Mathematical Sciences of the Autonomous University of Nuevo León (UANL), specializing in programming with a focus on backend and game development.
-
-I am currently seeking internship opportunities and entry-level positions where I can contribute to real-world projects, continue learning, and further strengthen my technical skills.
-
-* 🎓 Bachelor's Degree in Multimedia and Digital Animation (Programming Specialization)
-* 🎮 Game Developer using Unity and Godot
-* 💻 Interested in Software Development, Game Systems, and Interactive Applications
-* 🌱 Continuously learning new technologies and development practices
-* 🚀 Looking for internships, professional opportunities, and collaborative projects
+* 🎓 Bachelor's Degree in Multimedia and Digital Animation at the Faculty of Physical and Mathematical Sciences of the Autonomous Univeristy of Nuevo León (Programming Specialization)
+* 🎮 Game Developer using Unity and Godot.
+* 🌱 Continuously learning new technologies and development practices.
+* 🚀 Looking for internships, professional opportunities, and collaborative projects.
 
 ---
 
 ## Technologies & Tools
 
-### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,python,swift,mysql,unity,godot,html,css,js,git,github,vscode,visualstudio,pr,ae)](https://skillicons.dev)
 
-* C#
-* C++
-* SQL
-* GDScript
-
-### Game Development
-
-* Unity
-* Godot Engine
-
-### Development Tools
-
-* Git
-* GitHub
-* Visual Studio
-* VS Code
-
-### Productivity & Design
-
-* Microsoft Office
-* Adobe Creative Cloud
-
----
 
 ## Development Journal
 
