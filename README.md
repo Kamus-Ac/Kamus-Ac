@@ -57,7 +57,7 @@ I'm a Multimedia and Digital Animation student specializing in programming, with
         <h3 align="center">Manchego Studios</h3>
         <a href="https://www.youtube.com/@ManchegoStudios" target="_blank">
           <img 
-            src="" 
+            src="img/banner.png" 
             width="400" 
             alt="Manchego Studios Banner"
           >
