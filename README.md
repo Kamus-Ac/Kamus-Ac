@@ -53,12 +53,12 @@ I'm a Multimedia and Digital Animation student specializing in programming, with
 <div align="center">
   <table>
     <tr>
-      <td width="100%" align="center">
+      <td width="90%" align="center">
         <h3 align="center">Manchego Studios</h3>
         <a href="https://www.youtube.com/@ManchegoStudios" target="_blank">
           <img 
             src="img/banner.png" 
-            width="400" 
+            width="100%" 
             alt="Manchego Studios Banner"
           >
         </a>
